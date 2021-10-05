@@ -1,6 +1,6 @@
 ### Fala Dev eu sou o Willian 👋
 
-- 🔭 Hoje trabalho como FullStack (SpringBoot e React)
+- 🔭 Hoje trabalho como FullStack com Java SpringBoot e React
 - 🌱 Estudando Java | JS
 - 😉 Pode me chamar de Farinha
 
