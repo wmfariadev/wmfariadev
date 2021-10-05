@@ -61,3 +61,6 @@
       style="max-width: 100%;"></a>
 
 </div>
+<br />
+
+![Snake animation](https://github.com/wmfarinha/wmfarinha/blob/output/github-contribution-grid-snake.svg)
