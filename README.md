@@ -43,11 +43,11 @@
       src="https://camo.githubusercontent.com/d79c5549652f9c7690992eb49571d216a70a480681561cbd93bfbfc77c491e54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465"
       data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"
       style="max-width: 100%;"></a>
-  <a href="https://instagram.com/farinha.devplay" rel="nofollow"><img
+  <a href="https://instagram.com/williamfaria.dev" rel="nofollow"><img
       src="https://camo.githubusercontent.com/acaa286597b43c96dc02b69b90de15a65c52063e31835b763a061cc815f64bac/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d2532334534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"
       data-canonical-src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white"
       style="max-width: 100%;"></a>
-  <a href="https://www.twitch.tv/farinha_devplay" rel="nofollow"><img
+  <a href="https://www.twitch.tv/farinha_dev" rel="nofollow"><img
       src="https://camo.githubusercontent.com/ec779aec0f1b6eaa5d10682a8fb54c96525e9074461254165f4e7d4295f7d4d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5477697463682d3931343646463f7374796c653d666f722d7468652d6261646765266c6f676f3d747769746368266c6f676f436f6c6f723d7768697465"
       data-canonical-src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white"
       style="max-width: 100%;"></a>
