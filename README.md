@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfarinha&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfarinha&layout=compact&theme=dracula)  
 
 <a href="https://github.com/wmfarinha">
   <div><br>
