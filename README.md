@@ -4,28 +4,32 @@
 - 🌱 Estudando Java | JS
 - 😉 Pode me chamar de Farinha
 
-<div>
-  <a href="https://github.com/wmfarinha">
-    <img heigh="180em"
-      src="https://github-readme-stats.vercel.app/api?username=wmfarinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img heigh="180em"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=wmfarinha&layout=compact&langs_count=16&theme=dracula" />
-  </a>
-</div>
+<picture>
+  <source
+    srcset=https://github-readme-stats.vercel.app/api?username=wmfarinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfarinha&layout=compact)  
 
 <a href="https://github.com/wmfarinha">
   <div><br>
     <img align="center" alt="Farinha-Js" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
       style="max-width: 100%;">
-    <img align="center" alt="Farinha-React" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-      style="max-width: 100%;">
     <img align="center" alt="Farinha-HTML" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
       style="max-width: 100%;">
     <img align="center" alt="Farinha-CSS" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+      style="max-width: 100%;">
+    <img align="center" alt="Farinha-React" height="30" width="40"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+      style="max-width: 100%;">
+    <img align="center" alt="Farinha-Vue" height="30" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
       style="max-width: 100%;">
     <img align="center" alt="Farinha-Python" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
