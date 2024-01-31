@@ -1,8 +1,8 @@
 ### Fala Dev eu sou o William 👋
 
 - 🔭 Hoje trabalho como FullStack com Java SpringBoot e React
-- 🌱 Estudando Java | JS
-- 😉 Pode me chamar de Farinha
+- 🌱 Estudando Python | React | Node
+- 😉 Pode me chamar de William
 
 <picture>
   <source
