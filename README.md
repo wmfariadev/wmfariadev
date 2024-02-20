@@ -16,29 +16,21 @@
 
 <a href="https://github.com/wmfarinha">
   <div><br>
-    <img align="center" alt="Farinha-Js" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-      style="max-width: 100%;">
-    <img align="center" alt="Farinha-HTML" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-      style="max-width: 100%;">
-    <img align="center" alt="Farinha-CSS" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-      style="max-width: 100%;">
     <img align="center" alt="Farinha-React" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
       style="max-width: 100%;">
-    <img align="center" alt="Farinha-Vue" height="30" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+    <img align="center" alt="Farinha-Nodejs" height="30" width="40"
+      src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg"
       style="max-width: 100%;">
     <img align="center" alt="Farinha-Python" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
       style="max-width: 100%;">
     <img align="center" alt="Farinha-Java" height="30" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;" />
-    <img align="center" alt="Farinha-Csharp" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      style="max-width: 100%;">
+    <img align="center" alt="Farinha-Postgresql" height="30" width="40"
+      src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" style="max-width: 100%;" />
+    <img align="center" alt="Farinha-Docker" height="30" width="40"
+      src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" style="max-width: 100%;" />
   </div>
 </a>
 <br />
