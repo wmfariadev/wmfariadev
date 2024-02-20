@@ -23,10 +23,10 @@
       src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg"
       style="max-width: 100%;">
     <img align="center" alt="Farinha-Python" height="30" width="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg"
       style="max-width: 100%;">
     <img align="center" alt="Farinha-Java" height="30" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width: 100%;" />
+      src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" style="max-width: 100%;" />
     <img align="center" alt="Farinha-Postgresql" height="30" width="40"
       src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" style="max-width: 100%;" />
     <img align="center" alt="Farinha-Docker" height="30" width="40"
