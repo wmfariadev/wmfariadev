@@ -6,15 +6,15 @@
 
 <picture>
   <source
-    srcset=https://github-readme-stats.vercel.app/api?username=wmfarinha&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    srcset=https://github-readme-stats.vercel.app/api?username=wmfariadev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=wmfariadev&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfarinha&layout=compact&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wmfariadev&layout=compact&theme=dracula)  
 
-<a href="https://github.com/wmfarinha">
+<a href="https://github.com/wmfariadev">
   <div><br>
     <img align="center" alt="Farinha-React" height="30" width="40"
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -34,7 +34,7 @@
   </div>
 </a>
 <br />
-<div><a href="https://github.com/wmfarinha">
+<div><a href="https://github.com/wmfariadev">
   </a><a href="https://www.youtube.com/channel/UCQ12O02Tl6sLGoQQEb8hNQQ" rel="nofollow"><img
       src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"
       data-canonical-src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white"
@@ -59,4 +59,4 @@
 </div>
 <br />
 
-![Snake animation](https://github.com/wmfarinha/wmfarinha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wmfariadev/wmfariadev/blob/output/github-contribution-grid-snake.svg)
